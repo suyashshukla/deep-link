@@ -1,0 +1,9 @@
+{
+    "routes": [
+        {
+            "route": "/payslip",
+            "redirect": "keka://m.keka.com/me/finances/mypay/payslips",
+            "statusCode": 302
+        }
+    ]
+}
